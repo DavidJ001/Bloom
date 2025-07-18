@@ -36,21 +36,21 @@ const BloomABeanPage = ({ onNavigate }) => {
       title: 'Financial Freedom Workbook',
       description: 'A step-by-step guide to creating your personalized path to financial independence.',
       price: '$29.99',
-      image: '/src/assets/9M91HxRDyOFS.jpg',
+      image: '/assets/9M91HxRDyOFS.jpg',
       gumroadUrl: '#'
     },
     {
       title: 'Budget Mastery Course',
       description: 'Master the art of budgeting with our comprehensive video course and templates.',
       price: '$79.99',
-      image: '/src/assets/74X8rUnLEOLr.png',
+      image: '/assets/74X8rUnLEOLr.png',
       gumroadUrl: '#'
     },
     {
       title: 'Investment Starter Kit',
       description: 'Everything you need to start investing confidently, even with limited funds.',
       price: '$49.99',
-      image: '/src/assets/fwWwttfdl7SK.png',
+      image: '/assets/fwWwttfdl7SK.png',
       gumroadUrl: '#'
     }
   ];
@@ -117,7 +117,7 @@ const BloomABeanPage = ({ onNavigate }) => {
             </div>
             <div className="relative">
               <img 
-                src="/src/assets/9M91HxRDyOFS.jpg" 
+                src="/assets/9M91HxRDyOFS.jpg" 
                 alt="Financial literacy and growth"
                 className="rounded-lg shadow-2xl w-full h-96 object-cover"
               />
@@ -344,7 +344,7 @@ const BloomABeanPage = ({ onNavigate }) => {
             </div>
             <div className="relative">
               <img 
-                src="/src/assets/74X8rUnLEOLr.png" 
+                src="/assets/74X8rUnLEOLr.png" 
                 alt="Financial community support"
                 className="rounded-lg shadow-lg w-full h-96 object-cover"
               />

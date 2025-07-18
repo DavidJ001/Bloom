@@ -31,19 +31,19 @@ const AboutPage = () => {
       name: 'Sarah Johnson',
       role: 'Founder & Chief Storyteller',
       bio: 'A passionate advocate for healing through narrative, Sarah founded The Bloom Umbrella after her own transformative journey.',
-      image: '/src/assets/1okZfg8rPIvh.png'
+      image: '/assets/1okZfg8rPIvh.png'
     },
     {
       name: 'Michael Chen',
       role: 'Financial Literacy Director',
       bio: 'With 15 years in financial education, Michael leads our Bloom-a-Bean initiative with expertise and compassion.',
-      image: '/src/assets/tEnhyts2bQAK.jpg'
+      image: '/assets/tEnhyts2bQAK.jpg'
     },
     {
       name: 'Elena Rodriguez',
       role: 'Community Wellness Coordinator',
       bio: 'Elena brings her background in psychology and community building to foster resilience and connection.',
-      image: '/src/assets/ZbmptFyvIGXe.jpg'
+      image: '/assets/ZbmptFyvIGXe.jpg'
     }
   ];
 
@@ -86,7 +86,7 @@ const AboutPage = () => {
             </div>
             <div className="relative">
               <img 
-                src="/src/assets/AbUPz0usSTiy.jpeg" 
+                src="/assets/AbUPz0usSTiy.jpeg" 
                 alt="Community healing in action"
                 className="rounded-lg shadow-lg w-full h-96 object-cover"
               />

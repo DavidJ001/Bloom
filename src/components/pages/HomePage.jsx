@@ -149,7 +149,7 @@ const HomePage = ({ onNavigate }) => {
             </div>
             <div className="relative">
               <img 
-                src="/src/assets/mtkddWWi8I19.jpg" 
+                src="/assets/mtkddWWi8I19.jpg" 
                 alt="Community storytelling illustration"
                 className="rounded-lg shadow-lg w-full h-96 object-cover"
               />

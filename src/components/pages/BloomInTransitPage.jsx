@@ -36,21 +36,21 @@ const BloomInTransitPage = ({ onNavigate }) => {
       title: 'Cultural Connection Guide',
       description: 'Learn how to make authentic connections and meaningful exchanges while traveling.',
       price: '$19.99',
-      image: '/src/assets/1okZfg8rPIvh.png',
+      image: '/assets/1okZfg8rPIvh.png',
       gumroadUrl: '#'
     },
     {
       title: 'Solo Travel Confidence Course',
       description: 'Build the confidence and skills needed for safe, enriching solo travel adventures.',
       price: '$59.99',
-      image: '/src/assets/Uyx5Tm33ZPfj.png',
+      image: '/assets/Uyx5Tm33ZPfj.png',
       gumroadUrl: '#'
     },
     {
       title: 'Travel Journal Template Pack',
       description: 'Beautiful templates to document your journeys and preserve meaningful memories.',
       price: '$14.99',
-      image: '/src/assets/kfKoqaQDZubE.png',
+      image: '/assets/kfKoqaQDZubE.png',
       gumroadUrl: '#'
     }
   ];
@@ -59,19 +59,19 @@ const BloomInTransitPage = ({ onNavigate }) => {
     {
       name: 'Tokyo, Japan',
       description: 'Discover the perfect blend of ancient tradition and modern innovation.',
-      image: '/src/assets/1okZfg8rPIvh.png',
+      image: '/assets/1okZfg8rPIvh.png',
       stories: 12
     },
     {
       name: 'Tuscany, Italy',
       description: 'Experience the art of slow living and authentic Italian culture.',
-      image: '/src/assets/Uyx5Tm33ZPfj.png',
+      image: '/assets/Uyx5Tm33ZPfj.png',
       stories: 8
     },
     {
       name: 'Marrakech, Morocco',
       description: 'Immerse yourself in vibrant markets and rich cultural traditions.',
-      image: '/src/assets/kfKoqaQDZubE.png',
+      image: '/assets/kfKoqaQDZubE.png',
       stories: 15
     }
   ];
@@ -155,7 +155,7 @@ const BloomInTransitPage = ({ onNavigate }) => {
             </div>
             <div className="relative">
               <img 
-                src="/src/assets/1okZfg8rPIvh.png" 
+                src="/assets/1okZfg8rPIvh.png" 
                 alt="Cultural travel and exchange"
                 className="rounded-lg shadow-2xl w-full h-96 object-cover"
               />

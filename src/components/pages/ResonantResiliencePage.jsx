@@ -36,21 +36,21 @@ const ResonantResiliencePage = ({ onNavigate }) => {
       title: 'Resilience Toolkit',
       description: 'A comprehensive collection of exercises and strategies for building mental strength.',
       price: '$39.99',
-      image: '/src/assets/ZbmptFyvIGXe.jpg',
+      image: '/assets/ZbmptFyvIGXe.jpg',
       gumroadUrl: '#'
     },
     {
       title: 'Mindfulness Mastery Course',
       description: 'Learn mindfulness techniques to stay centered and resilient in challenging times.',
       price: '$69.99',
-      image: '/src/assets/1okZfg8rPIvh.png',
+      image: '/assets/1okZfg8rPIvh.png',
       gumroadUrl: '#'
     },
     {
       title: 'Stress Management Workbook',
       description: 'Practical tools and techniques for managing stress and building emotional resilience.',
       price: '$24.99',
-      image: '/src/assets/tEnhyts2bQAK.jpg',
+      image: '/assets/tEnhyts2bQAK.jpg',
       gumroadUrl: '#'
     }
   ];
@@ -133,7 +133,7 @@ const ResonantResiliencePage = ({ onNavigate }) => {
             </div>
             <div className="relative">
               <img 
-                src="/src/assets/ZbmptFyvIGXe.jpg" 
+                src="/assets/ZbmptFyvIGXe.jpg" 
                 alt="Building resilience through community"
                 className="rounded-lg shadow-2xl w-full h-96 object-cover"
               />

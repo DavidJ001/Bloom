@@ -36,21 +36,21 @@ const BloomUnboundPage = ({ onNavigate }) => {
       title: 'Healing Journal Workbook',
       description: 'A comprehensive guide to processing emotions and tracking your healing journey.',
       price: '$24.99',
-      image: '/src/assets/mtkddWWi8I19.jpg',
+      image: '/assets/mtkddWWi8I19.jpg',
       gumroadUrl: '#'
     },
     {
       title: 'Story Crafting Course',
       description: 'Learn the art of authentic storytelling with our step-by-step video course.',
       price: '$89.99',
-      image: '/src/assets/AbUPz0usSTiy.jpeg',
+      image: '/assets/AbUPz0usSTiy.jpeg',
       gumroadUrl: '#'
     },
     {
       title: 'Resilience Building Toolkit',
       description: 'Practical exercises and strategies for building emotional resilience.',
       price: '$34.99',
-      image: '/src/assets/ZbmptFyvIGXe.jpg',
+      image: '/assets/ZbmptFyvIGXe.jpg',
       gumroadUrl: '#'
     }
   ];
@@ -111,7 +111,7 @@ const BloomUnboundPage = ({ onNavigate }) => {
             </div>
             <div className="relative">
               <img 
-                src="/src/assets/mtkddWWi8I19.jpg" 
+                src="/assets/mtkddWWi8I19.jpg" 
                 alt="Healing through storytelling"
                 className="rounded-lg shadow-2xl w-full h-96 object-cover"
               />
